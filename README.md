@@ -1,5 +1,7 @@
 # NaijaFarmHand: AI-Powered Farming Assistant for Nigerian Farmers
 
+**Link to Kaggle notebook(code):** https://www.kaggle.com/code/stephennwankwo/naijafarmhand-agent
+
 ## Project Overview
 
 NaijaFarmHand is an AI assistant designed specifically for beginner and early-stage farmers in Nigeria. The assistant provides practical, localized, and actionable farming guidance relevant to Nigerian conditions. This project leverages Google's Gemini 1.5 Pro model through the Google AI Development Kit (ADK) to create an interactive assistant with specialized tools for Nigerian farming needs.
